@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Schulaufgabe_Dez_2023;
+
+Aufgabe_8.Start();
+Aufgabe_9.Start();
+
+
+
